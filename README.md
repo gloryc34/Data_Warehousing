@@ -5,15 +5,15 @@ The dataset used for these assignments originates from [Kaggle](https://www.kagg
 
 ### Data Cleaning Process:
 
-- The dataset underwent cleaning using R programming. Missing data and duplicate rows were addressed, with missing data being removed. Duplicate rows were retained, justified by similar positions having identical salaries and attributes.
+- The dataset underwent cleaning using R programming and is in a .csv file format. Missing data and duplicate rows were addressed, with missing data being removed. Duplicate rows were retained, justified by similar positions having identical salaries and attributes.
 
 ### Data Characteristics:
 
-- Numeric columns exclusively contain integers. Clarify the nature of categorical columns if applicable (e.g., ordinal, nominal).
+- Numeric columns exclusively contain integers. Most columns containec characters.
 
 ### Dataset Quality Assurance:
 
-- The Kaggle dataset was assigned a usability rating of 10.0. Specify the source of this rating and any criteria considered during the evaluation.
+- The Kaggle dataset was assigned a usability rating of 10.0. Specify the source of this rating and any criteria considered during the evaluation. The dataset is updated quarterly.
 
 ### Column Descriptions:
 
