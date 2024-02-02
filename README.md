@@ -10,6 +10,9 @@ The dataset used for these assignments originates from [Kaggle](https://www.kagg
 ### Data Characteristics:
 
 - Numeric columns exclusively contain integers. Most columns containec characters.
+  - work_year : int
+  - salary: int
+  - salary_in_used: int
 
 ### Dataset Quality Assurance:
 
