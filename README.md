@@ -1,7 +1,7 @@
 # Data Warehousing
 Github dedicated to Data Warehousing class.
 
-The dataset used for these assignments originates from Kaggle, specifically [provide dataset link or details]. The data collection process involved [clarify the method, e.g., download, API, web scraping]. Additionally, the author initially collected data from AI Jobs.
+The dataset used for these assignments originates from [Kaggle](https://www.kaggle.com/datasets/sazidthe1/data-science-salaries). The data collection process involved downloading the dataset. Additionally, the author initially collected data from AI Jobs.
 
 ### Data Cleaning Process:
 
